@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Why I’m Leaving
-subtitle: An essay about my 2-year journey at Peixe Urbano.
 bg: /public/images/posts/brunomarinho_whyleaving@2x.jpg
 published: true
 ---

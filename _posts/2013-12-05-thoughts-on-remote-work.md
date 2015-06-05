@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Remote Work
-subtitle: I’ve been working remotely for 6 months and in this<br> time I’ve been collecting some notes to share<br> about pros and cons of this experience so far.
 bg: /public/images/posts/brunomarinho_workspace01@2x.jpg
 published: true
 ---

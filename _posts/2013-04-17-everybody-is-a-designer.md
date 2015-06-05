@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Everybody is a Designer
-subtitle: A brief introduction on pole and<br>the thoughts of nonsense
 bg: /public/images/posts/brunomarinho_everybodydesigner@2x.jpg
 published: true
 ---

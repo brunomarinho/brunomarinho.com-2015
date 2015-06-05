@@ -5,7 +5,7 @@ url: http://brunomarinho.com
 markdown: kramdown
 
 
-permalink: none
+permalink: /writing/:title
 
 
 navigation:

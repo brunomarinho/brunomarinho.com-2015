@@ -28,14 +28,19 @@ html,
 body {
   margin: 0;
   padding: 0;
-
-  
-
 }
 
-html {
+
+
+html,
+:root {
   font-family: $san-serif-font;
   font-size: $body;
+  font-feature-settings: "liga" 1, "kern" 1;
+  font-kerning: normal;
+  text-size-adjust: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
   line-height: 1.5;
   zoom: 1;
 
@@ -355,3 +360,7 @@ footer a:active {
   font-weight: 300px;
 
 }
+
+
+
+

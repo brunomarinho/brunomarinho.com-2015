@@ -3,32 +3,25 @@ layout: article
 ---
 
 
-    <header class="masthead" style="background-image: url({{ page.bg }});">
+<header class="masthead" style="background-image: url({{ page.bg }});">
 
-        {% include nav.html %}
+    {% include nav.html %}
 
-        <div class="dot"></div>
-        <h1 class="big-serif">{{ page.title }}</h1>
-        <h2 class="small-sans">{{ page.subtitle }}</h2>
-        <small>{{ page.date | date_to_string }} - {% include readtime.html %}</small>
+    <div class="dot"></div>
+    <h1 class="big-serif">{{ page.title }}</h1>
+    <!--<h2 class="small-sans">{{ page.subtitle }}</h2>-->
+    <small>{{ page.date | date_to_string }} - {% include readtime.html %}</small>
 
 
-    </header>
+</header>
 
 
 
 <article class="post">
-  <!-- <h1 class="post-title">{{ page.title }}</h1> -->
-  <!-- <h2 class="post-subtitle">{{ page.description }}</h2> -->
-
-  
-  <br>
-  <br>
-
   {{ content }}
 </article>
 
-<span class="splitcontent">⤫</span>
+<span class="splitcontent">&#10540;</span>
 <aside class="related-posts">
   <br>
   <h2>Posts You Might Like</h2>

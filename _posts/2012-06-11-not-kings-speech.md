@@ -1,7 +1,6 @@
 ---
 layout: post
 title: (not) King's Speech
-subtitle: A brief introduction on pole and<br>the thoughts of nonsense
 bg: /public/images/posts/brunomarinho_notkindspeach@2x.jpg
 published: true
 ---

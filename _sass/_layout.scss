@@ -15,3 +15,106 @@ footer {
   margin-bottom: 2rem;
   text-align: center;
 }
+
+
+/* Medium Size */
+
+@media screen and (min-width: 481px) and (max-width: 940px) {
+
+	.container {
+	  max-width: 44rem;
+	  padding-left:  1rem;
+	  padding-right: 1rem;
+	  margin-left:  auto;
+	  margin-right: auto;
+
+	}
+
+	header .big-serif {
+		padding-top:20px;
+		font-size: 120px;
+		line-height: 120px;
+
+	}
+
+	header {
+		height: 480px !important;
+	}
+
+	.selected-writing {
+	  margin-top: 20px;
+	}
+
+	.post {
+	  margin-top: 20px;
+	}
+
+	.selected-writing {
+		margin-top: 120px;
+	}
+
+	header {
+	    background-size: 47% !important;
+	}
+	.masthead .small-sans {
+		//margin-top: 40px;
+
+
+	}
+
+}
+
+
+/* Small Size */
+@media only screen and (min-width: 320px) and ( max-width:480px) {
+
+	.container {
+	  max-width: 32rem;
+	  padding-left:  1rem;
+	  padding-right: 1rem;
+	  margin-left:  auto;
+	  margin-right: auto;
+
+	}
+
+	header .big-serif {
+
+		font-size: 70px;
+		line-height: 70px;
+
+	}
+
+	header .dot {
+	  width: 16px;
+	  height: 16px;
+	  background-color: $blue;
+	  float: right;
+	  margin-top: 15px;
+
+	}
+	header {
+		height: 400px !important;
+	}
+
+	.selected-writing {
+	  margin-top: 60px;
+	}
+
+	.small-sans {
+		text-align: center !important;
+
+
+	}
+
+	.post {
+	  margin-top: 0px !important;
+	}
+	p {
+		font-size: 22px;
+		line-height: 30px;
+	}
+	
+
+
+
+}

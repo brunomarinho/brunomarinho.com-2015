@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Get It Done
-subtitle: My approach to a better focused mind using<br>Pomodoro Technique and music
 bg: /public/images/posts/brunomarinho_pressplay@2x.jpg
 published: true
 ---

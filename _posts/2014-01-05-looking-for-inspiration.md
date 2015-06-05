@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Looking for Inspiration
-subtitle: 
 bg: /public/images/posts/brunomarinho_inspiration@2x.jpg
 published: true
 ---

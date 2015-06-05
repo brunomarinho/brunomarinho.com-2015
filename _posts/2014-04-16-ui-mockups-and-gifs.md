@@ -1,7 +1,6 @@
 ---
 layout: post
 title: UI Mockups and GIFs
-subtitle: "Simple Guide on Using After Effects to Better<br>Communicate User Interfaces"
 bg: /public/images/posts/brunomarinho_animatedui@2x.jpg
 published: true
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Good Vibrations
-subtitle: A brief introduction on pole and <br>the thoughts of nonsense
 bg: /public/images/posts/cat.jpg
 published: false
 ---
