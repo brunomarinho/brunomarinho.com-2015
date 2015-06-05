@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Bruno Marinho</title>
+ <link href="http://brunomarinho.com//atom.xml" rel="self"/>
+ <link href="http://brunomarinho.com/"/>
+ <updated>2015-06-05T11:29:35-03:00</updated>
+ <id>http://brunomarinho.com</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>UI Mockups and GIFs</title>
+   <link href="http://brunomarinho.com///ui-mockups-and-gifs.html"/>
+   <updated>2014-04-16T00:00:00-03:00</updated>
+   <id>http://brunomarinho.com/ui-mockups-and-gifs</id>
+   <content type="html">&lt;p&gt;I would say that animated mockups is the new flat design. Beside it being trendy it is also good to see a lot of people using animation skills in to better communicate visual ideas. But keep in mind that animation does not replace interactive mockups and user testing. These should always be your goals to achieve a great user experience.&lt;/p&gt;
+
+&lt;h2 id=&quot;after-effects-is-not-hard-to-learn&quot;&gt;After Effects is not hard to learn&lt;/h2&gt;
+&lt;p&gt;After Effects might look intimidating but it’s not that hard to use for doing basic stuff. While you can import a PSD direct to After Effects interface I prefer to export PNG assets from my original PSD as I need them and organize it inside the After Effects composition. Exporting as PNG is also good if you use Sketch or another tool. If you never used After Effects I will explain the 3 basic concepts: Composition, Timeline/Keyframes and Render.&lt;/p&gt;
+
+&lt;h3 id=&quot;composition&quot;&gt;Composition&lt;/h3&gt;
+&lt;p&gt;To simplify things, imagine composition as a PSD file. Meaning a composition has layers and each layer has a behavior, style, and so on. And it becomes really useful to simulate positioning or camera movements without having to touch your original mockup animation since you can place compositions inside other compositions.&lt;/p&gt;
+
+&lt;h3 id=&quot;timelinekeyframes&quot;&gt;Timeline/Keyframes&lt;/h3&gt;
+&lt;p&gt;Imagine each keyframe as a representation of your layer in the timeline. It might be position, opacity, scale etc. Set an initial keyframe, move the scrubber, do what you want to do with the layer and set your keyframe again. In the end you’ll have two keyframes X time.&lt;/p&gt;
+
+&lt;video loop=&quot;&quot; video=&quot;&quot; autoplay=&quot;&quot; data-image-id=&quot;1*gyVAkOFqKFOgoXleZxssXw.gif&quot; data-width=&quot;994&quot; data-height=&quot;618&quot;&gt;&lt;source src=&quot;https://d262ilb51hltx0.cloudfront.net/max/1600/1*gyVAkOFqKFOgoXleZxssXw.ogv&quot; type=&quot;video/ogg&quot; /&gt;&lt;source src=&quot;https://d262ilb51hltx0.cloudfront.net/max/1600/1*gyVAkOFqKFOgoXleZxssXw.mp4&quot; type=&quot;video/mp4&quot; /&gt;Your browser does not support the video tag.&lt;/video&gt;
+
+&lt;h4 id=&quot;on-the-left-we-have-the-properties-position-scale-rotation-and-opacity-and-on-the-right-the-keyframes-on-the-timeline&quot;&gt;On the left we have the properties (position, scale, rotation and opacity) and on the right the keyframes on the timeline&lt;/h4&gt;
+
+&lt;p&gt;Observe that as I drag the timeline cursor it automatcally renders the values from 0% to 100% showing a nice fading effect.&lt;/p&gt;
+
+&lt;p&gt;Doing a right click on the keyframe shows you even more options like easing effects. You can do Ease In and Ease Out. Also a double click on a keyframe will allow you to quickly change the keyframe value.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://d262ilb51hltx0.cloudfront.net/max/2000/1*WFdFexwYcEidQqfZHuiAKw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;render&quot;&gt;Render&lt;/h2&gt;
+&lt;p&gt;This perhaps is the most scary thing in After Effects at first glance. To someone who never used the app before, it’s a lot of information but the concept is simple: it exports your final file to a desired folder using the choosen video format.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://d262ilb51hltx0.cloudfront.net/max/2000/1*CVR6RINgwSMqV13J3_o4DA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;to-export-your-movie-you-need-to-first-add-it-to-render-queue&quot;&gt;To export your movie you need to first add it to Render Queue&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://d262ilb51hltx0.cloudfront.net/max/2000/1*bZbgCGwZVOzwegxhRxMALw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;once-you-add-to-render-queue-youll-get-this-screen-click-on-lossless-to-setup-the-movie-format&quot;&gt;Once you “Add to Render Queue” you’ll get this screen. Click on Lossless to setup the movie format&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://d262ilb51hltx0.cloudfront.net/max/2000/1*rUUL83VPgt4jucF_BLFm4w.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;make-sure-you-turn-audio-output-off-and-under-format-otions-select-h-264-codec-it-will-make-your-file-smaller-if-still-big-to-load-on-photoshop-try-play-with-quality-settings&quot;&gt;Make sure you turn Audio Output Off and under Format Otions select H 264 codec. It will make your file smaller. If still big to load on photoshop try play with quality settings&lt;/h4&gt;
+
+&lt;p&gt;Now that you have the basics, all that’s left is telling a story by animating your mockups. So try it yourself before you say you can’t do it. Start with simple things like a transition between two screens and them move on to more complex things like delete a list item.&lt;/p&gt;
+
+&lt;p&gt;Also keep in mind that is just 5% of After Effects. It also lets you animate things by writing code. Take a look at this blog post by Morten Just where he does a pretty good job on prototyping Facebook Home on After Effects. It covers a lot of advanced tips so if you want to learn more is a good start.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-basic-template-to-start&quot;&gt;A Basic Template to Start&lt;/h2&gt;
+&lt;p&gt;This post actually began because I’ve put together a really basic template for iPhone Apps that I want to share. While it’s simple it also has some options like colors (gray, gold, white) and a diagonal version. Also you can change the background color.&lt;/p&gt;
+
+&lt;p&gt;To use it you just have to touch “Your Mockup” composition and then use the “Render Angle 800x600px” or “Render Front 800x600px” compositions to generate video files.&lt;/p&gt;
+
+&lt;p&gt;The template also has a basic demo app with animations and I believe it will help you to see how basic animation is done and helps to communicate some interaction design.&lt;/p&gt;
+
+&lt;p&gt;→ Download it now&lt;/p&gt;
+
+&lt;h2 id=&quot;generating-animated-gifs&quot;&gt;Generating Animated GIFs&lt;/h2&gt;
+&lt;p&gt;Sadly, After Effects does not have a built-in GIF export so after you render your video I found that the simplest way is to open it inPhotoshop and use the Save for Web dialog to export as an animated GIF.&lt;/p&gt;
+
+&lt;video loop=&quot;&quot; video=&quot;&quot; autoplay=&quot;&quot; data-image-id=&quot;1*HGrYpGM-YCPlkM8Mwvif_w.gif&quot; data-width=&quot;800&quot; data-height=&quot;600&quot;&gt;&lt;source src=&quot;https://d262ilb51hltx0.cloudfront.net/max/1600/1*HGrYpGM-YCPlkM8Mwvif_w.ogv&quot; type=&quot;video/ogg&quot; /&gt;&lt;source src=&quot;https://d262ilb51hltx0.cloudfront.net/max/1600/1*HGrYpGM-YCPlkM8Mwvif_w.mp4&quot; type=&quot;video/mp4&quot; /&gt;Your browser does not support the video tag.&lt;/video&gt;
+
+&lt;video loop=&quot;&quot; video=&quot;&quot; autoplay=&quot;&quot; data-image-id=&quot;1*LIfLJ9u_iNBmaLSDVmEj7A.gif&quot; data-width=&quot;800&quot; data-height=&quot;600&quot;&gt;&lt;source src=&quot;https://d262ilb51hltx0.cloudfront.net/max/1600/1*LIfLJ9u_iNBmaLSDVmEj7A.ogv&quot; type=&quot;video/ogg&quot; /&gt;&lt;source src=&quot;https://d262ilb51hltx0.cloudfront.net/max/1600/1*LIfLJ9u_iNBmaLSDVmEj7A.mp4&quot; type=&quot;video/mp4&quot; /&gt;Your browser does not support the video tag.&lt;/video&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Looking for Inspiration</title>
+   <link href="http://brunomarinho.com///looking-for-inspiration.html"/>
+   <updated>2014-01-05T00:00:00-02:00</updated>
+   <id>http://brunomarinho.com/looking-for-inspiration</id>
+   <content type="html">&lt;p&gt;Very often people always ask me: how you always find cool things to share or where do you find inspiration? So I decided to write a quick post with some links that allow me to stay tuned and inspired.&lt;/p&gt;
+
+&lt;h2 id=&quot;design&quot;&gt;Design&lt;/h2&gt;
+&lt;p&gt;My world spins around designed things and I’m fascinated about how design is more and more starting to be perceived by normal people. To keep me inspired when designing new stuff I feed my brain with different niches of design.&lt;/p&gt;
+
+&lt;p&gt;→ Dieter Rams&lt;br /&gt;
+→ Bless This Stuff&lt;br /&gt;
+→ Design Sponge&lt;br /&gt;
+→ Kinfolk&lt;br /&gt;
+→ Dribbble&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;photography&quot;&gt;Photography&lt;/h2&gt;
+&lt;p&gt;I learned the basics of photography back in 2003 on a Nikon FM-10. It soon became one of the things that I more pleasant to do, specially when I’m traveling. Also it allows me to clear my mind and track moments of my life.&lt;/p&gt;
+
+&lt;p&gt;→ Uelsmann&lt;br /&gt;
+→ Henri Cartier-Bresson&lt;br /&gt;
+→ Sebastião Salgado&lt;br /&gt;
+→ David Loftus&lt;br /&gt;
+→ Tinker Street&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;cook&quot;&gt;Cook&lt;/h2&gt;
+&lt;p&gt;Since 2007, I’ve been cooking almost everyday of my life. Sometimes 3 meals in the same day. I’m always seeking for new methods or revisiting the same recipes adding new flavors just to see what happens.&lt;/p&gt;
+
+&lt;p&gt;→ Jamie Oliver&lt;br /&gt;
+→ Gennaro Contaldo&lt;br /&gt;
+→ Smitten Kitchen&lt;br /&gt;
+→ Love and Lemons&lt;br /&gt;
+→ Brooklyn Brew Shop&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;writing&quot;&gt;Writing&lt;/h2&gt;
+&lt;p&gt;This is recent and I don’t know if I really consider it a hobby since I’m trying to build an audience and develop a personal style. I’m using it as a way to master my written English and also it sometimes helps me to think and decide things clearly.&lt;/p&gt;
+
+&lt;p&gt;→ Nathan Berry&lt;br /&gt;
+→ Sasha Greif&lt;br /&gt;
+→ Frank Chimero&lt;br /&gt;
+→ Andrew Kim&lt;br /&gt;
+→ Josh Long&lt;br /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Remote Work</title>
+   <link href="http://brunomarinho.com///thoughts-on-remote-work.html"/>
+   <updated>2013-12-05T00:00:00-02:00</updated>
+   <id>http://brunomarinho.com/thoughts-on-remote-work</id>
+   <content type="html">&lt;h2 id=&quot;getting-out-of-home-makes-you-sane-and-inspired&quot;&gt;Getting Out of Home Makes You Sane and Inspired&lt;/h2&gt;
+&lt;p&gt;Go out for lunch sometimes, go ride your bike, travel and work from another place, go walk around and shoot a different scene or just cook a new recipe for lunch. I found that it’s important to see new things, interact with new random people and breath fresh air. It’s not new that our brain need some rest in order to keep everything right so let it rest.&lt;/p&gt;
+
+&lt;h2 id=&quot;split-creative-and-boring-work-for-the-right-time&quot;&gt;Split Creative and Boring Work for the Right Time&lt;/h2&gt;
+&lt;p&gt;Every kind of work has some boring stuff to do. As a professional you have to know how to deal with that. How to manage the creative work for times when you feel inspired and be comfortable to spend some time focused doing the boring stuff. I always recommend listening to music for the boring stuff. Allows you to abstract the fact you’ll be doing boring stuff for the next hour.&lt;/p&gt;
+
+&lt;h2 id=&quot;youll-miss-having-workmates&quot;&gt;You’ll Miss Having Workmates&lt;/h2&gt;
+&lt;p&gt;Specially on the lunch time you’ll miss having different people to talk about work or life stuff. Not saying that remote work don’t provide that but face-to-face communication will always beat Skype/Slack&lt;/p&gt;
+
+&lt;h2 id=&quot;be-prepared-to-work-more-hours&quot;&gt;Be Prepared to Work More Hours&lt;/h2&gt;
+&lt;p&gt;With no physical distance between you and your work place sometimes you can say you gonna just to check your emails or read some stuff but somehow in a magic way you always end doing some work.&lt;/p&gt;
+
+&lt;h2 id=&quot;you-cant-hug-the-world&quot;&gt;You Can’t Hug The World&lt;/h2&gt;
+&lt;p&gt;Will be always companies willing to work with you. I have a personal point of view that you should always listen for new things but before join in new adventures you have to think twice about how much work can you handle together. Remember that you’ll naturally work more hours so if you try to get more work that you actually can handle you’ll ending up by losing clients.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Get It Done</title>
+   <link href="http://brunomarinho.com///press-play-and-get-it-done.html"/>
+   <updated>2013-11-12T00:00:00-02:00</updated>
+   <id>http://brunomarinho.com/press-play-and-get-it-done</id>
+   <content type="html">&lt;p&gt;This gets even worse if you work in a big company when you have colleagues or teammates arriving to your desk to ask something or sometimes just to do some easy talk. Some studies talk about 20-25 minutes to recover the entire focus. Multiply this to the number of interruptions and you can see that sometimes you just lost you work day.&lt;/p&gt;
+
+&lt;h2 id=&quot;define-your-tasks-and-press-play&quot;&gt;Define Your Tasks and Press Play&lt;/h2&gt;
+&lt;p&gt;You probably heard about the Pomodoro Technique. It’s a simple process to help you improve your productivity and focus. If not take a look at the PDF, it’s free and does not hurt you to read. It inspired me to mix music and focus.&lt;/p&gt;
+
+&lt;p&gt;Start by creating every morning or on the night before a list of tasks you wanna complete on the day. Be honest with yourself. You can’t do more than one task at the same time so break them until you have a clear and honest list. I recommend using Trello or tasks on gmail.&lt;/p&gt;
+
+&lt;p&gt;Now put some music to play. I usually hear full albums and that allows me to focus in general for 60-120 minutes depending of the album length. In this time don’t allow people or other things to distract you. Allow your mind to stay focused.&lt;/p&gt;
+
+&lt;p&gt;Not every style of music is appropriate to your focus time. In general the mood of the music might affect your own mood. There’s a lot of people who works well listening to aggressive music but calm and positive music would always perform better.&lt;/p&gt;
+
+&lt;p&gt;After a period of focus the reward could be reading something useful, going for a stretch and walk around the office, drink a long sip of water or just relax for 5 minutes before dive into another tasks and perhaps another album.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why I’m Leaving</title>
+   <link href="http://brunomarinho.com///why-im-leaving.html"/>
+   <updated>2013-05-11T00:00:00-03:00</updated>
+   <id>http://brunomarinho.com/why-im-leaving</id>
+   <content type="html">&lt;p&gt;I saw the company grow from 200 to 1,000+ employees, watched acquisitions, failures, launched new products and crafted every kind of pixel from emails to mobile apps — now I feel that is time to move on.&lt;/p&gt;
+
+&lt;h2 id=&quot;back-to-2011&quot;&gt;Back to 2011&lt;/h2&gt;
+&lt;p&gt;It was a very fun and inspirational journey that started in January 2011 because an answer I left on Quora about who are the best designers in town. And it ended with an interview that gave me the opportunity to be the second designer on the Product Design team. Another interesting thing was that I didn’t even know if I could speak fluent English. But after some interviews and one month of work, my English started to come.&lt;/p&gt;
+
+&lt;p&gt;Even with 1000+ employees and 5 live products, the team hit maximum of 3 “ego free” guys. It was a great team to work on our ideals and our ideas were really well connected. The value of our team was having the clear vision of what the company could be in the future and design it. And the most important: having fun :)&lt;/p&gt;
+
+&lt;p&gt;Also, it was an international experience because the product and engineering team included foreigners from USA and South America countries. So it was a great oportunity to interact with people with different cultures and learn a lot form them at the same time.&lt;/p&gt;
+
+&lt;h2 id=&quot;ok-buddy-but-why-are-you-leaving&quot;&gt;“Ok buddy, but why are you leaving?”&lt;/h2&gt;
+&lt;p&gt;The main reason is that I believe my mission in the company is accomplished. I did enough to be proud and I have this feeling that I’m ready to move on with new work/life experiences.&lt;/p&gt;
+
+&lt;p&gt;It’s not just about leaving the company, but also about getting out of my comfort zone. So I decided that my goal is to get a job in the U.S., get a work visa and live there for at least 2–4 years, maybe meet the right people and start something or maybe finding the right company and helping them. I will spend the rest of this year focusing on this objective.&lt;/p&gt;
+
+&lt;p&gt;And living outside my country, Brazil, will help me master my written and spoken English. It will also will help me to experience other cultures, and help me connect and learn from new people. I believe it will have a deep impact on my career and how I work and get inspired.&lt;/p&gt;
+
+&lt;h2 id=&quot;fear-of-failure&quot;&gt;Fear of Failure?&lt;/h2&gt;
+&lt;p&gt;No way to fail on this goal. There’s no anxiety. I feel like it’s much better to try and see what happens than regret never having tried. And I believe it’s the perfect time to do it. I just got married and we don’t have plans for kids yet, so why not?&lt;/p&gt;
+
+&lt;p&gt;The best thing out of all this is my wife understands it and supports me. Plus, I spoke with some close, and work, friends and they support my decision. So let’s do it!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Everybody is a Designer</title>
+   <link href="http://brunomarinho.com///everybody-is-a-designer.html"/>
+   <updated>2013-04-17T00:00:00-03:00</updated>
+   <id>http://brunomarinho.com/everybody-is-a-designer</id>
+   <content type="html">&lt;p&gt;There’s no better time to be a designer. It’s mainstream and people think that it’s easy to join a startup and design the next big solution to the world. And some times it just becomes the next big problem to a niche.&lt;/p&gt;
+
+&lt;h2 id=&quot;everyone-wants-to-be-a-designer&quot;&gt;Everyone wants to be a designer&lt;/h2&gt;
+&lt;p&gt;With smartphones and tablets everyone started to consume more design. Not just thinking about physical devices but about all apps that exist within those devices.&lt;/p&gt;
+
+&lt;p&gt;From mom’s to CEO’s, more than never, people want to give opinions and say how things should look or work. Why? Because it’s too easy to say something when you’re outside the problem. It’s easy to redesign Facebook or Twitter and post it on Dribbble. Easy to critique Apple’s skeumorphism. But do these people really understand the problems that these companies are trying to solve? Do they have enough information about what they’re doing for the future?&lt;/p&gt;
+
+&lt;p&gt;One of the core values of design is a clear vision of what it could be. It all should start with a function. A reason to exist. To praise possible users. This requires time and maturity. Maturity to understand, to design for businesses, for users. Creating beautiful flat design to show it to the design community is not design. It’s art.&lt;/p&gt;
+
+&lt;h2 id=&quot;outsourced-vs-handmade-design&quot;&gt;Outsourced vs Handmade Design&lt;/h2&gt;
+&lt;p&gt;As an amateur chef, I like to compare design and food. You can apply lean concepts and do quick and good food. But when you dive in and understand ingredients characteristics, how the heat iterates with the food and more advanced stuff, it starts to become more and more close to perfection. A great example of life devoted to food is &lt;a href=&quot;http://www.imdb.com/title/tt1772925/&quot;&gt;Jiro&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can outsource design, hire companies to do it. But when you put great designers together inside your company you reach another level of iteration and probably you will start to solve real problems with great pixel solutions. It’s all about handmade design, the art of really digging deep into the pixel work, with precision and love for every pixel.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-future&quot;&gt;The Future&lt;/h2&gt;
+&lt;p&gt;Since we are in an age where everyone is consuming more and more design every day, I started to notice that people can differentiate between really bad design and really good design.&lt;/p&gt;
+
+&lt;p&gt;But in the end, they should understand that great designers dedicate a lot of time to improve skills and make things functional. So they deserve some respect. Like a doctor when he decides you have to do a surgery or Jiro when he serves you the best sushi he can.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>(not) King's Speech</title>
+   <link href="http://brunomarinho.com///not-kings-speech.html"/>
+   <updated>2012-06-11T00:00:00-03:00</updated>
+   <id>http://brunomarinho.com/not-kings-speech</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://s3.amazonaws.com/brunomarinho/blog/startup-weekend.jpg&quot; alt=&quot;Some scenes from the weekend&quot; title=&quot;Some scenes from the weekend&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A while ago I went to &lt;a href=&quot;http://startupweekend.org/&quot;&gt;Startup Weekend&lt;/a&gt; Rio and, as a shy guy, I was embarrassed to do a public pitch. 60 seconds to “sell” an idea and motivate people join and build something.&lt;/p&gt;
+
+&lt;p&gt;As one of the last three to pitch an idea, I became increasingly afraid to get on “stage” in front of the crowd and talk! With some friends and my girlfriend motivating me, I finally made it up there and it was pretty cool. People liked and voted on it and my idea was eventually approved as one of the projects for the weekend.&lt;/p&gt;
+
+&lt;p&gt;But Houston, we have a problem! Ten people voted for my idea but only one guy and my girlfriend wanted to help me for this weekend. We were the smallest team on the weekend. So with one designer, one illustrator, and one developer we delegated the tasks and focused on finishing them! On Sunday around noon, our team had prepared something that I believe was good enough to show to the judges.&lt;/p&gt;
+
+&lt;h2 id=&quot;pitch-insights&quot;&gt;Pitch Insights&lt;/h2&gt;
+&lt;p&gt;Before lunch, Dave McClure spoke for 30 minutes about &lt;a href=&quot;http://www.slideshare.net/dmc500hats/how-to-pitch-a-vc-sept-2010&quot;&gt;best practices when presenting an idea&lt;/a&gt;. And I just noted the main points he gave and then started to make the keynote. Time to get hands-on and create the first keynote in my life. First, I had to go to the Mac App Store and download the Keynote app. Downloading… Installing… Done. Cool. And now?&lt;/p&gt;
+
+&lt;p&gt;I thought “Ok, it’s my first time. Let’s just follow McClure’s topics and as he said,  “Investors don’t have time to hear you talking so be quick or be dead! Be short and objective.” (Not exactly his words, but what my brain grabbed.) Below you can see what I outlined to start my keynote.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Intro Image&lt;/li&gt;
+  &lt;li&gt;Problem&lt;/li&gt;
+  &lt;li&gt;Solution / Demo&lt;/li&gt;
+  &lt;li&gt;For Who&lt;/li&gt;
+  &lt;li&gt;Business Model&lt;/li&gt;
+  &lt;li&gt;Proprietary Tech / Expertise&lt;/li&gt;
+  &lt;li&gt;Competition&lt;/li&gt;
+  &lt;li&gt;How to Get Customers&lt;/li&gt;
+  &lt;li&gt;My Team&lt;/li&gt;
+  &lt;li&gt;Why Funding?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So I tried to quickly cover all these topics and it was not painful to do and actually I liked it very much. So with my keynote ready, the first startups started to pitch and I was really anxious because of having to actually talk and this time for more than 60 seconds. Startups had 5 minutes to pitch and other 3 to answer questions from judges. And by the way one of the judges was the CEO of the company where &lt;a href=&quot;http://www.peixeurbano.com.br&quot;&gt;I work&lt;/a&gt;. So much pressure! So much in my head. And with only one team left before my pitch there were some technical problems and Bedy Yang (who organized the event) asked me if we can present right now! I remember I said: “Ok, no problem…”&lt;/p&gt;
+
+&lt;p&gt;The next thing I notice was everyone laughing and applauding as I speak… WTF? Dave McClure liked my idea and much more importantly, he praised &lt;a href=&quot;http://www.slideshare.net/brunoportnoy/onde-kh-where-to-poop-pitch-keynote-at-swrio&quot;&gt;the first keynote I’ve done in my life&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;and&quot;&gt;And…&lt;/h2&gt;
+&lt;p&gt;It was a great experience and I recommend it to everyone. It’s a great event to make friends, network, eat good food, and of course, spread your ideas to the world. Thanks @annachedid and @leozeba to be part of this!&lt;/p&gt;
+
+&lt;p&gt;So, don’t let your shyness kill your ideas! I’m still shy and afraid of public speaking but after my first experience I feel much better about this!&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

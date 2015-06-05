@@ -1,0 +1,29 @@
+  {% include header.html %}
+
+  <body class="animated fadeIn">
+
+    <div class="container content">
+    <!-- <img class="profile" src="{{ site.baseurl }}"> -->
+    <header class="masthead" style="background-image: url(/public/images/profile-photo.jpg);">
+    
+        <!-- Navigation Loop -->
+        {% include nav.html %}
+
+        <div class="dot"></div>
+        <h1 class="big-serif">Bruno<br>Marinho</h1>
+        <h2 class="small-sans"><a href="/about">is</a> a designer helping companies to build<br>
+          better products to their users. Currently<br>
+          disrupting the future of crowdfunding at <a href="http://www.trycelery.com" target="_blank">Celery</a>.</h2>
+
+
+    </header>
+      <!-- <span style="clear:both;"></span> -->
+
+
+        {{ content }}
+
+    {% include footer.html %}
+    </div>
+
+  </body>
+</html>

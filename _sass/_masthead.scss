@@ -1,0 +1,66 @@
+// Masthead
+//
+// Super small header above the content for site name and short description.
+
+header {
+
+    background-image: url("/public/images/profile-photo.jpg");
+    background-size: 50%;
+    background-repeat:no-repeat;
+    background-position: left top;
+
+}
+
+
+.masthead {
+  height: 600px;
+  text-align: right;
+  margin-top: 0px;
+
+
+}
+
+.dot {
+  width: 32px;
+  height: 32px;
+  background-color: $blue;
+  float: right;
+  margin-top: 30px;
+
+}
+
+
+.big-serif {
+  //position: absolute;
+  //top: 20px;
+  //margin-left: 300px;
+  //width: 640px;
+  font-size: $big;
+  font-weight: normal;
+  font-family: $serif-font;
+  color: $orange;
+  text-align:right;
+  line-height: 150px;
+
+  a {
+    color: $orange;
+    text-decoration: none;
+  }
+
+}
+
+.small-sans {
+    font-family: $san-serif-font;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 400;
+    color: $blue;
+    line-height: 28px;
+    margin-top: 0px;
+    
+
+  }
+
+  .small-sans a {
+    color: $orange;
+  }

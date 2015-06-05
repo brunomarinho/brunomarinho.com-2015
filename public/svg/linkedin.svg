@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>linkedin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Home-v1" sketch:type="MSArtboardGroup" transform="translate(-630.000000, -1685.000000)" fill="#98A5B0">
+            <g id="Footer" sketch:type="MSLayerGroup" transform="translate(240.000000, 1632.000000)">
+                <g id="Social-Icons" transform="translate(255.000000, 53.000000)" sketch:type="MSShapeGroup">
+                    <path d="M140.4345,2.56575 C140.4345,3.9825 139.38825,5.13075 137.667,5.13075 C136.047,5.13075 135,3.9825 135,2.56575 C135,1.1145 136.0815,0 137.7345,0 C139.38825,0 140.4015,1.1145 140.4345,2.56575 L140.4345,2.56575 Z M135.13575,7.158 L140.2665,7.158 L140.2665,23.66475 L135.13575,23.66475 L135.13575,7.158 Z M143.337,12.423 C143.337,10.36425 143.2695,8.643 143.20125,7.158 L147.657,7.158 L147.89475,9.453 L147.996,9.453 C148.671,8.37225 150.3255,6.78675 153.09375,6.78675 C156.468,6.78675 159,9.04875 159,13.9095 L159,23.6655 L153.86925,23.6655 L153.86925,14.517 C153.86925,12.39075 153.12525,10.93875 151.269,10.93875 C149.85225,10.93875 149.00925,11.9175 148.63725,12.8625 C148.5015,13.2 148.46775,13.67175 148.46775,14.14575 L148.46775,23.6655 L143.337,23.6655 L143.337,12.423 L143.337,12.423 Z" id="linkedin"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

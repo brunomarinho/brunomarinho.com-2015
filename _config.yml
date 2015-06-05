@@ -1,0 +1,30 @@
+# Setup
+title: "Bruno Marinho"
+url: http://brunomarinho.com
+
+markdown: kramdown
+
+
+permalink: none
+
+
+navigation:
+ - title: Home
+   url: /
+ - title: Writing
+   url: /writing/
+ - title: About
+   url: /about/
+
+
+# Assets
+
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+
+
+
+port: 8989
