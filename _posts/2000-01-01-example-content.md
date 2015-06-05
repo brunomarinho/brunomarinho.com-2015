@@ -3,6 +3,7 @@ layout: post
 title: Example content
 bg: /public/images/posts/cat.jpg
 published: false
+category: blog
 ---
 
 

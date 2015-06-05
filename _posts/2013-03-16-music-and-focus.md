@@ -7,8 +7,6 @@ published: false
 
 You probably heard about Pomodoro Technique, a simple process to help you improve your productivity and focus. If not [take a look](http://www.pomodorotechnique.com/download/pdf/ThePomodoroTechnique_v1-3.pdf) at the PDF, it's free. With this said I wanna talk here about how I mix concepts of Pomodoro with music and how it works for me.
 
-{{more}}
-
 ## Focus
 Human beens have in general a big problem called procrastination and and it keeps us from doing what we really need to do. I believe that what helps us to procrastinate more or less is the definition of tasks. If you don't have a very clear thing to do you probably will jump to another thing, that some times is not related with the task we need to do.
 

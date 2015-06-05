@@ -3,11 +3,10 @@ layout: post
 title: Designing for Revenue
 bg: /public/images/posts/cat.jpg
 published: false
+category: blog
 ---
 
 There's no perfect formula to build and keep a product roadmap on a design team. It usually start with a lot of conversation, probably a document with a lot of comments, some discussions for different priorities but the way you present and keep is up to you and your team. So in the end it is important to figure out the best order to do projects.
-
-{{more}}
 
 ## One formula I use
 

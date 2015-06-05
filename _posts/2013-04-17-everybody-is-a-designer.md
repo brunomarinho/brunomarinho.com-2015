@@ -3,11 +3,10 @@ layout: post
 title: Everybody is a Designer
 bg: /public/images/posts/brunomarinho_everybodydesigner@2x.jpg
 published: true
+category: blog
 ---
 
 There's no better time to be a designer. It's mainstream and people think that it's easy to join a startup and design the next big solution to the world. And some times it just becomes the next big problem to a niche.
-
-{{more}}
 
 ## Everyone wants to be a designer
 With smartphones and tablets everyone started to consume more design. Not just thinking about physical devices but about all apps that exist within those devices.

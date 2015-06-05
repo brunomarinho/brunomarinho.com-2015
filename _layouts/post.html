@@ -27,13 +27,15 @@ layout: article
   <h2>Posts You Might Like</h2>
   <br>
   <ul>
-    {% for post in site.related_posts limit:3 %}
-      <li>
-      <span class="pontuation">❝</span><a href="{{ post.url }}">{{ post.title }}</a>
-      <br>
-      <small>{{ post.date | date_to_string }}</small>
-      </li>
-      <br>
+    {% for post in site.related_posts limit:7 %}
+    {% if post.hidden != true %}
+          <li>
+          <span class="pontuation">❝</span><a href="{{ post.url }}">{{ post.title }}</a>
+          <br>
+          <small>{{ post.date | date_to_string }}</small>
+          </li>
+          <br>
+    {% endif %}
     {% endfor %}
   </ul>
 </aside>

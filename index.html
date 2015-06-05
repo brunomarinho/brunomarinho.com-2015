@@ -9,13 +9,15 @@ shownav: true
   <h2>Selected Writing</h2>
   <h3>“Write drunk, edit sober” - Ernest Hemingway</h3>
   <br>
-  {% for post in site.posts limit:3 %}
-    <span class="pontuation">❝</span><a href="{{ post.url }}">{{ post.title }}</a>
-    <br>
-    <small>{{ post.date | date_to_string }}</small>
-    <br>
-    <br>
-  {% endfor %}
+{% for post in site.categories.blog limit:3 %}
+
+      <span class="pontuation">❝</span><a href="{{ post.url }}">{{ post.title }}</a>
+      <br>
+      <small>{{ post.date | date_to_string }}</small>
+      <br>
+      <br>
+
+{% endfor %}
 
   
 
@@ -29,14 +31,14 @@ shownav: true
 
 <section class="selected-works">
   <h2>Selected Works</h2>
-  <h3>Companies, people and stories that I had the pleasure to tell</h3>
+  <h3>Stories about startups, people and side projects I had the pleasure to work on</h3>
   <br>
 
 
   {% for work in site.data.works %}
   <!--<img src="{{ work.image }}"><br>-->
 
-  <span class="pontuation">❝</span><a href="{{ work.url }}" target="_blank">{{ work.title }}</a>
+  <span class="pontuation">❝</span><a href="{{ work.url }}">{{ work.title }}</a>
   <br>
   <small>{{ work.role }}, {{ work.date }}</small>
   <br>

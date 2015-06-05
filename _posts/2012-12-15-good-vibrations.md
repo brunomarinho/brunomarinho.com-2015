@@ -5,8 +5,6 @@ bg: /public/images/posts/cat.jpg
 published: false
 ---
 
-![Illustration](https://s3.amazonaws.com/brunomarinho/blog/good-vibrations.jpg "An illustration that represents vibrations")
-
 This is not about one of the [greatest songs of all times](http://en.wikipedia.org/wiki/Good_Vibrations) or a [SF sex shop](http://en.wikipedia.org/wiki/Good_Vibrations_(sex_shop)). This is about how working with people on the same vibration should make your daily job better and even contribute to the success of your company.
 
 {{more}}

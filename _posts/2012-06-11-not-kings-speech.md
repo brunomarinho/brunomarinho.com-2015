@@ -3,9 +3,8 @@ layout: post
 title: (not) King's Speech
 bg: /public/images/posts/brunomarinho_notkindspeach@2x.jpg
 published: true
+category: blog
 ---
-
-![Some scenes from the weekend](https://s3.amazonaws.com/brunomarinho/blog/startup-weekend.jpg "Some scenes from the weekend")
 
 A while ago I went to [Startup Weekend](http://startupweekend.org/) Rio and, as a shy guy, I was embarrassed to do a public pitch. 60 seconds to "sell" an idea and motivate people join and build something.
 

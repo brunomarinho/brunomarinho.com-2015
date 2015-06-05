@@ -3,6 +3,7 @@ layout: post
 title: Why I’m Leaving
 bg: /public/images/posts/brunomarinho_whyleaving@2x.jpg
 published: true
+category: blog
 ---
 
 I saw the company grow from 200 to 1,000+ employees, watched acquisitions, failures, launched new products and crafted every kind of pixel from emails to mobile apps — now I feel that is time to move on.

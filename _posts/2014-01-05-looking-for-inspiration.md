@@ -3,6 +3,7 @@ layout: post
 title: Looking for Inspiration
 bg: /public/images/posts/brunomarinho_inspiration@2x.jpg
 published: true
+category: blog
 ---
 
 Very often people always ask me: how you always find cool things to share or where do you find inspiration? So I decided to write a quick post with some links that allow me to stay tuned and inspired.

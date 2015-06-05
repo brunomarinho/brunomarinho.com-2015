@@ -3,8 +3,10 @@ layout: post
 title: Remote Work
 bg: /public/images/posts/brunomarinho_workspace01@2x.jpg
 published: true
+category: blog
 ---
 
+I’ve been working remotely for 6 months and in this time I’ve been collecting some notes to share about pros and cons of this experience so far.
 
 ## Getting Out of Home Makes You Sane and Inspired
 Go out for lunch sometimes, go ride your bike, travel and work from another place, go walk around and shoot a different scene or just cook a new recipe for lunch. I found that it’s important to see new things, interact with new random people and breath fresh air. It’s not new that our brain need some rest in order to keep everything right so let it rest.
