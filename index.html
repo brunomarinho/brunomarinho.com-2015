@@ -7,11 +7,11 @@ shownav: true
 
 <section class="selected-writing">
   <h2>Selected Writing</h2>
-  <h3>“Write drunk, edit sober” - Ernest Hemingway</h3>
+  <h3>“Write drunk, edit sober” &#8212; Ernest Hemingway</h3>
   <br>
 {% for post in site.categories.blog limit:3 %}
 
-      <span class="pontuation">❝</span><a href="{{ post.url }}">{{ post.title }}</a>
+      <span class="pontuation">❝</span><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
       <br>
       <small>{{ post.date | date_to_string }}</small>
       <br>
@@ -22,7 +22,7 @@ shownav: true
   
 
 </section>
-<a href="/writing">More</a>
+<a href="{{ site.url }}/writing">More</a>
 </span>
 
 <br>
@@ -30,21 +30,22 @@ shownav: true
 <br>
 
 <section class="selected-works">
-  <h2>Selected Works</h2>
-  <h3>Stories about startups, people and side projects I had the pleasure to work on</h3>
+  <h2>Selected Stories</h2>
+  <h3>About startups, people and side projects I had the pleasure to work on.</h3>
   <br>
 
 
   {% for work in site.data.works %}
-  <!--<img src="{{ work.image }}"><br>-->
+  <a style="border: transparent 0px;" href="{{ work.url }}" target="_blank"><img style="margin-bottom:10px;" src="{{ work.image }}"></a><br>
 
-  <span class="pontuation">❝</span><a href="{{ work.url }}">{{ work.title }}</a>
+  <span class="pontuation">❝</span><a href="{{ work.url }}" target="_blank">{{ work.title }}</a>
   <br>
   <small>{{ work.role }}, {{ work.date }}</small>
   <br>
   <br>
-  {% endfor %}
   <br>
+  {% endfor %}
+
 
 </section>
 

@@ -1,8 +1,9 @@
-  {% include header.html %}
+{% include header.html %}
+
 
 <body class="animated fadeIn">
 <div class="container content">
-<header class="masthead" style="background-image: url(/public/images/profile-photo.jpg);">
+<header class="masthead" style="background-image: url({{ site.url }}/public/images/profile-photo.jpg);">
 
     <!-- Navigation Loop -->
     {% include nav.html %}
@@ -20,6 +21,6 @@
 {% include footer.html %}
 
 </body>
-{% include analytics.html %}
+
 
 </html>

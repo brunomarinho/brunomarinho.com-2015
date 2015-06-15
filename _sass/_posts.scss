@@ -38,8 +38,8 @@
   margin-bottom: 100px;
   max-width: 28em;
   text-align: left;
-  font-size: 26px;
-  line-height: 36px;
+  font-size: 24px;
+  line-height: 32px;
   font-weight: 300;
 }
 
@@ -84,8 +84,8 @@
 
 .post h2 {
 
-  font-family: $serif-font;
-  font-weight: normal;
+  font-family: $san-serif-font;
+  font-weight: bold;
   margin-top: 60px;
   margin-bottom: 20px;
   font-size: 40px;
@@ -132,6 +132,13 @@
 
 .related-posts a:hover {
   text-decoration: none;
+
+}
+.post img {
+
+  display: block;
+  width: 150%;
+  margin-left: -27%;
 
 }
 

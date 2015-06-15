@@ -1,10 +1,12 @@
 # Setup
 title: "Bruno Marinho"
-url: http://brunomarinho.com
+
+# Use absolute URL when not hosting on the root of server
+
+url: ""
+baseurl: "" 
 
 markdown: kramdown
-
-
 permalink: /writing/:title
 
 

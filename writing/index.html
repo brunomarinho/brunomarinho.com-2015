@@ -8,7 +8,7 @@ shownav: true
 
 
 {% for post in site.categories.blog %}
-	<span class="pontuation">❝</span><a href="{{ post.url }}">{{ post.title }}</a>
+	<span class="pontuation">❝</span><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
 	<br>
 	<small>{{ post.date | date_to_string }}</small>
 	<br>

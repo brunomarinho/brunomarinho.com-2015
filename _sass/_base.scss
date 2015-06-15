@@ -85,15 +85,15 @@ a.active {
 }
 
 img {
-  display: block;
-  max-width: 100%;
-  margin: 0 0 1rem;
+  //display: block;
+  //max-width: 100%;
+  //margin: 0 0 1rem;
 }
 
 video {
   display: block;
-  max-width: 100%;
-  margin: 0 0 1rem;
+  width: 150%;
+  margin-left: -27%;
 
 }
 
@@ -240,10 +240,14 @@ section {
 }
 
 
-.selected-works {
+.selected-works img {
 
+  background-color:#f9f9f9;
+  display: block;
+  width: 80%;
 
 }
+
 
 .selected-works h2 {
 
@@ -298,6 +302,7 @@ footer ul {
     margin: 0;
     padding: 0;
     margin-bottom: 20px;
+    margin-top: 60px;
 
 
 }
@@ -358,6 +363,7 @@ footer a:active {
   color: $blue-lighest;
   font-size: 40px;
   font-weight: 300px;
+
 
 }
 

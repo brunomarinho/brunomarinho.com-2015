@@ -54,7 +54,7 @@ To use it you just have to touch "Your Mockup" composition and then use the "Ren
 
 The template also has a basic demo app with animations and I believe it will help you to see how basic animation is done and helps to communicate some interaction design.
 
-→ Download it now
+→ <a href="http://cloud.brunomarinho.com/0E3r2B052d2N" target="_blank">Download it now</a>
 
 ## Generating Animated GIFs
 Sadly, After Effects does not have a built-in GIF export so after you render your video I found that the simplest way is to open it inPhotoshop and use the Save for Web dialog to export as an animated GIF.

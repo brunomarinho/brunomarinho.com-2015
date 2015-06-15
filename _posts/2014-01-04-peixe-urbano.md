@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Peixe Urbano
-bg: /public/images/posts/brunomarinho_whyleaving@2x.jpg
+bg: /public/images/posts/brunomarinho_peixeurbano@2x.jpg
 published: true
 hidden: true
 ---
@@ -13,23 +13,32 @@ Even with 1000+ employees, Peixe Urbano product design of three was lean and mos
 
 All this translated into sketches, processes, visual and user interface design, information architecture, user experience, hypothesis, experiments and sometimes just spreading our good vibes and having fun with everyone in the company.
 
+<img src="https://d262ilb51hltx0.cloudfront.net/max/2000/1*jeHPX0BcKM3kd945wbtFEw.png">
+
 With Peixe Urbano acquiring other companies and launching new products, product design team was the epicenter of company. Delivering solutions for long-term product integration. Creating the useful and fading the useless. Hammering together a complete package of products to help users to achieve the company mission: explore the city.
 
 ##Big Achievements
 Two years is a quite long time for a web product and I’m proud that I had a chance to help the company rebuild the majority of systems that generated true impact on revenue. Also using design thinking not just on product design but to all company roles helping them to fine tune all processes.
 
+<img src="https://d262ilb51hltx0.cloudfront.net/max/2000/1*KwoeSslF9SkAC06w4xg6KA.png">
+
 
 ##Designing for Revenue
 I participate in all the major redesigns since the first public release; helping to add up to 14% increase in sales per month. This added about $2.0M every month to the company. The mindset for the redesigns was always a vision of all products working together. With clear tasks, direct CTA’s and clear interface. An interface that you actually can use everyday. Easy to replicate, faster to scale.
 
+<img src="https://d262ilb51hltx0.cloudfront.net/max/2000/1*wNj2qubetaF55_NQ4KL3UQ.png">
+
 ##Designing for Scalability
 I dedicated a long period on building and thinking about every kind of design pattern we may need for present and future. It grew into a big design pattern library with all the components the company may ever need to use. It was also my responsability to organize the files so they can live forever inside the company and be easily used by different people.
 
+<img src="https://d262ilb51hltx0.cloudfront.net/max/2000/1*KXrHOyHUyu8iUzoqEZorpw.png">
 
 ##Data Driven Team
 Our team was never directly responsible for delivering data and statistics but we’ve always had a good time with the data team, learning how to extract and work with relevant metrics.
 
 When you have more than 1.0M page views per month it seems easy to talk about metrics. But you should take care to avoid vanity ones. By using a lot of softwares like: Google Analytics, ClickTale, CrazyEgg, Optimizely and internal A/B test tools I learned how to see and track metrics that matter. All these observations helped our team to decide on new designs, acting on data and not just assumptions.
+
+<img src="https://d262ilb51hltx0.cloudfront.net/max/2000/1*meFirFYUQ9uwtjQHTW1fQA.png">
 
 ##User Centered
 One of the key principles I have in mind when designing web products is: try to be the customer when designing it. Is this useful? Is this ethical? Does this abuse a dark pattern? And this truly impact on how metrics can be perceived. And how copy can be written.
@@ -40,7 +49,11 @@ I had the opportunity to hear a lot from real customers and understand their con
 ##Mobile
 Launched in 2011 december, with a young mobile market in Brazil, our first version covered just the basics. But it helped us to get more data about what mobile might represent for sales. In the middle of 2012 we redesigned the app, integrating all products. By this time use and adoption of smartphones increased on the country and we tripled the number of users and sales in few months.
 
+<img src="https://d262ilb51hltx0.cloudfront.net/max/2000/1*9uYaDxacpn4RBRkj0ey-vQ.png">
+
 The first version of the app was built outside the company by a third party. After that the company decided to hire a mobile engineering team and put it side-by-side with our team. With that we’ve been able to design, test and deliver our apps faster and better.
+
+<img src="https://d262ilb51hltx0.cloudfront.net/max/2000/1*rowflPoZvwP5IPuxSAIVbw.png">
 
 ##Final thoughts
 By join early on Peixe Urbano, I was able to witness the company growing and some times shrinking. From 200 to 1200 employees and 3 different offices. I feel blessed to have been part of important moments for a successful company.
