@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Everybody is a Designer
-bg: /public/images/posts/brunomarinho_everybodydesigner@2x.jpg
+bg: https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_everybodydesigner%402x.jpg
 published: true
 category: blog
 ---
@@ -16,7 +16,7 @@ From mom's to CEO's, more than never, people want to give opinions and say how t
 One of the core values of design is a clear vision of what it could be. It all should start with a function. A reason to exist. To praise possible users. This requires time and maturity. Maturity to understand, to design for businesses, for users. Creating beautiful flat design to show it to the design community is not design. It's art.
 
 ## Outsourced vs Handmade Design
-As an amateur chef, I like to compare design and food. You can apply lean concepts and do quick and good food. But when you dive in and understand ingredients characteristics, how the heat iterates with the food and more advanced stuff, it starts to become more and more close to perfection. A great example of life devoted to food is [Jiro](http://www.imdb.com/title/tt1772925/).
+As an amateur chef, I like to compare design and food. You can apply lean concepts and do quick and good food. But when you dive in and understand ingredients characteristics, how the heat iterates with the food and more advanced stuff, it starts to become more and more close to perfection. A great example of life devoted to food is <a href="http://www.imdb.com/title/tt1772925/" target="_blank">Jiro</a>.
 
 You can outsource design, hire companies to do it. But when you put great designers together inside your company you reach another level of iteration and probably you will start to solve real problems with great pixel solutions. It's all about handmade design, the art of really digging deep into the pixel work, with precision and love for every pixel.
 

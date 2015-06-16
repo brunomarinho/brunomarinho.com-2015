@@ -13,8 +13,8 @@ $section-link: 26px;
 
 // Color Setup
 $blue: #143859;
-$blue-light: #8493A1;
-$blue-lighest: #D2D7DB;
+$blue-light: rgba(0,0,0,0.5);//#8493A1;
+$blue-lighest: rgba(0,0,0,0.3);//#D2D7DB;
 $orange: #FF5F00;
 
 
@@ -66,12 +66,14 @@ a {
   border-bottom: transparent 1px solid;
   transition: all .3s ease;
 
+
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
     text-decoration: none;
     border-bottom: $orange 1px solid;
     transition: all .3s ease;
+    
   }
 
   strong {
@@ -213,10 +215,11 @@ section {
   margin-top: 0px;
   margin-bottom:30px;
   color: $blue-light;
+  font-weight: 300;
 }
 
 .selected-writing a {
-  color: $blue;
+  color: rgba(0,0,0,0.8);//$blue;
   font-size: $section-link;
   text-decoration: none;
   font-weight: normal;
@@ -265,10 +268,11 @@ section {
   margin-top: 0px;
   margin-bottom:30px;
   color: $blue-light;
+  font-weight: 300;
 }
 
 .selected-works a {
-  color: $blue;
+  color: rgba(0,0,0,0.8);//$blue;
   font-size: $section-link;
   text-decoration: none;
   font-weight: normal;
@@ -317,12 +321,21 @@ footer li {
 }
 
 
+footer a path {
+  fill: rgba(0,0,0,0.2);
+  transition: all .3s ease;
+  border-bottom: transparent 1px solid !important;
+
+}
+
 footer a:hover path {
   fill: $orange;
   transition: all .3s ease;
   border-bottom: transparent 1px solid !important;
 
 }
+
+
 
 
 footer a:hover {
@@ -360,13 +373,17 @@ footer a:active {
 }
 
 .splitcontent {
-  color: $blue-lighest;
+  color: rgba(0,0,0,0.1);//$blue;
+  //color: $blue-lighest;
   font-size: 40px;
   font-weight: 300px;
 
 
 }
 
+footer small {
+  font-size: 16px;
+}
 
 
 

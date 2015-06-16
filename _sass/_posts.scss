@@ -2,17 +2,21 @@
 
 .page-section {
   margin: auto;
-  margin-top: 100px;
+  margin-top: 60px;
   margin-bottom: 100px;
   max-width: 28em;
-  font-size: 22px;
-  line-height: 32px;
+
+  font-size: 24px;
+  line-height: 34px;
+  font-weight: 300;
+  color: rgba(0,0,0,0.8);
 
 }
 
 .page-section a {
   color: $orange;
   font-size: 22px;
+  font-weight: 300;
 
 
 }
@@ -24,9 +28,11 @@
 
 .post h4 {
   font-weight: normal;
-  color: $blue-light;
+  color: rgba(0,0,0,0.4);
   font-size: 15px;
-  margin-bottom: 40px;
+  margin-bottom: 60px;
+  margin-top: -15px;
+  text-align: center;
 
 
 }
@@ -39,8 +45,9 @@
   max-width: 28em;
   text-align: left;
   font-size: 24px;
-  line-height: 32px;
+  line-height: 34px;
   font-weight: 300;
+  color: rgba(0,0,0,0.8);
 }
 
 

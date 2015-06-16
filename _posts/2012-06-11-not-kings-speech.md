@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (not) King's Speech
-bg: /public/images/posts/brunomarinho_notkindspeach@2x.jpg
+bg: https://s3.amazonaws.com/brunomarinho/writing/brunomarinho_notkindspeach%402x.jpg
 published: true
 category: blog
 ---
