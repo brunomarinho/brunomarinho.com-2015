@@ -1,5 +1,2 @@
 ## Hello
-Based on Poole
-
-
-## How
+That's the code I use for brunomarinho.com
