@@ -10,4 +10,6 @@ Currently helping <a href="http://www.trycelery.com" target="_blank">Celery</a> 
 
 A Chemex and Espresso lover. Used to be a drummer of a Brazilian pop/rock band but now only playing air drums.
 
+Visit my <a href="www.linkedin.com/in/brunomarinho" target="_blank">Linkedin</a> to know a bit more about my career as a designer.
+
 

@@ -55,10 +55,10 @@ Dropbox has a featured called Selective Sync. It’s under preferences, account.
 With Smart Previews, Lightroom allows you to browse all your pictures in Lightroom even if the original pictures are not synced to your hard drive. You can save a lot of space by just “archiving” Sets you're not editing anymore or exporting anymore.
 
 
-### Recapping
-1. Move your Catalog to Dropbox
-2. Organize all your photos in Set's
-3. Import, Edit and Export then on Lightroom
+### TL;DR
+1. Move/Store your Catalog on Dropbox
+2. Upload and organize all your photos in Set's
+3. Import, Edit and Export on Lightroom
 4. Use Dropbox selective syncing to keep only what you need
 5. Go shoot and repeat
 
