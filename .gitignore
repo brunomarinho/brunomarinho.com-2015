@@ -6,6 +6,7 @@ _site
 
 deploy.bash
 deploy.sh
+robots.txt
 
 # Numerous always-ignore extensions
 *.diff
